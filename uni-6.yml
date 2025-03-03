@@ -3,10 +3,10 @@ root: '.juno'
 binary: junod
 chain_id: uni-6
 repository_url: https://github.com/CosmosContracts/juno
-version: v23.0.0-alpha.1
+version: v28.0.1
 src_path: /tmp/juno
 genesis_url: https://s3.ap-southeast-1.amazonaws.com/network.pupmos.genesis/uni-6/genesis.json.gz
-upgrade: 'v23'
+upgrade: 'v28'
 minimum_gas_prices: 0.0025ujunox
 seeds: 'babc3f3f7804933265ec9c40ad94f4da8e9e0017@testnet-seed.rhinostake.com:12656'
 persistent_peers: ''
